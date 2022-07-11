@@ -1,2 +1,2 @@
 # DatArc.github.io
-Data Analyst Professional
+Professional Data Analyst
