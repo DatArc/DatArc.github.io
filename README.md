@@ -1,11 +1,19 @@
 # DatArc.github.io
-Professional Data Analyst
+** Professional Data Analyst **
 
-Introduction / Summary
-Professional Experience
-Education
-Portfolio
+# Introduction / Summary
+------------------------
+
+# Professional Experience
+-------------------------
+
+# Education
+-----------
+
+# Portfolio
+-----------
   - Ericsson Project
   - ODA COVID Analytics
   - Coursera Capstone Project
-Contact Information
+# Contact Information
+---------------------
